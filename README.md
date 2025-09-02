@@ -1,6 +1,4 @@
 # Sixty-Eighty
-~README~
-Program name: Sixty-Eighty
 
 Description:
 This is a command-line database system for cataloguing music artists and their albums, specifically those active during the years 1960-1980. This period was chosen as I believe it was a very interesting and diverse period in popular music which saw a great deal of evolution across its span. The program was coded in Rust.
