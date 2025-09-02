@@ -10,7 +10,7 @@ Features:
 -Serialisation of added data to text files so additions are permanent. This is done when inputting the commands 'ex' and 'save'. Data is not saved if program is closed through other means.
 
 Usage:
-To run the program, go to target -> release then run main.exe. If all of the txt files in this folder are removed/deleted the project will recreate them when the next save occurs. Please do not delete one or two of these files as this will cause errors.
+To run the program, go to release, download main.exe, place it in a foler of your choice and run it. Upon typing 'save' or 'ex', three text files will be created in this folder containing the saved data on the system. If all of these text files are removed/deleted the project will recreate them when the next save occurs. Please do not delete one or two of these files as this will cause errors.
 
 Known issues:
 -The final year on a line of timeline will overrun onto the line below if it is over 11 characters. I intend to fix this issue at a later date but doing so will require restructuring the timeline function, and as it is a relatively minor visual bug I have decided to leave it in.
